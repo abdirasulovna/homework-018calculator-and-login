@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/homework-018calculator-and-login/static/css/main.a10acf6b.css",
+    "main.js": "/homework-018calculator-and-login/static/js/main.fd8691a3.js",
+    "index.html": "/homework-018calculator-and-login/index.html",
+    "main.a10acf6b.css.map": "/homework-018calculator-and-login/static/css/main.a10acf6b.css.map",
+    "main.fd8691a3.js.map": "/homework-018calculator-and-login/static/js/main.fd8691a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a10acf6b.css",
+    "static/js/main.fd8691a3.js"
+  ]
+}
